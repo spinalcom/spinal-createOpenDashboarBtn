@@ -1,0 +1,15 @@
+{
+  "name": "spinal-createOpenDashboarBtn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "openDashboardBtn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "spinal-env-drive-core": "git+https://github.com/spinalcom/spinal-env-drive-core.git"
+  }
+}
